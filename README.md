@@ -67,7 +67,7 @@ Durante el desarrollo se implementaron flujos automatizados, programados y de ap
 
 ---
 
-# Tech Stack
+# Tecnologías usadas
 
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
