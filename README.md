@@ -67,18 +67,13 @@ Durante el desarrollo se implementaron flujos automatizados, programados y de ap
 
 ---
 
-# Tecnologías utilizadas
+# Tech Stack
 
-- Microsoft Power Automate
-- Microsoft Forms
-- Microsoft SharePoint Online
-- Microsoft 365
-- Office 365 Outlook
-- SharePoint Lists
-- Approval Actions
-- Automated Flows
-- Scheduled Flows
-- Instant Flows
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Microsoft Forms](https://img.shields.io/badge/Microsoft_Forms-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
 ---
 
