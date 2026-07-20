@@ -86,19 +86,19 @@ Durante el desarrollo se implementaron flujos automatizados, programados y de ap
 
 ## Automatización de procesos
 
-![Automatizaciones](assets/automatizaciones.png)
+![Automatizaciones](assets/flujo_inscripcion.png)
 
 ---
 
 ## Flujos de aprobación
 
-![Aprobaciones](assets/aprobaciones.png)
+![Aprobaciones](assets/flujo_aprobacion_prof.png)
 
 ---
 
 ## Caso de estudio: TechSupplies
 
-![TechSupplies](assets/techsupplies.png)
+![TechSupplies](assets/flujo_tech.png)
 
 ---
 
